@@ -7,6 +7,7 @@ It can also extract all the images from every webpage, avoiding duplicates.
 **N.B. This program works best and is intended for scraping content off of one domain.**
 
 **Usage**
+
 To use this file:
 
 1. First, create a spreadhseet with one column which lists all the URLs you need to scrape the text or images from. (No headers are necessary, but the URLs must be in a clean format i.e. beginning with http:// or https:// and ending with / or white space).
@@ -15,4 +16,5 @@ To use this file:
 4. The program will ask you if you want to scrape images, text or both.
 
 **Output**
+
 The program will save the files it creates to the same directory you run the file from e.g. if the file is located and run from c:\Users\name\Documents\scraper, all the .jpg and .txt files it creates will also be saved there.
